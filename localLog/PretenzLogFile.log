@@ -1,0 +1,14 @@
+2018-01-26 14:57:19 INFO  pretenzLogFile:66 - Services.TableUpdaterImpl Clear  cash table 1
+2018-01-26 15:04:03 INFO  pretenzLogFile:71 - Services.TableMakerInsert into cash table #1 in 402sec. 
+2018-01-26 15:04:03 INFO  pretenzLogFile:74 - Services.TableMakerUpdating table 01 
+2018-01-26 15:04:03 INFO  pretenzLogFile:81 - Services.TableMakerComplete in 0sec. 
+2018-01-26 15:04:03 INFO  pretenzLogFile:74 - Services.TableMakerUpdating table 02 
+2018-01-26 15:04:04 INFO  pretenzLogFile:81 - Services.TableMakerComplete in 0sec. 
+2018-01-26 15:04:04 INFO  pretenzLogFile:74 - Services.TableMakerUpdating table 03 
+2018-01-26 15:04:04 INFO  pretenzLogFile:81 - Services.TableMakerComplete in 0sec. 
+2018-01-26 15:04:04 INFO  pretenzLogFile:74 - Services.TableMakerUpdating table 04 
+2018-01-26 15:04:04 INFO  pretenzLogFile:81 - Services.TableMakerComplete in 0sec. 
+2018-01-26 15:04:04 INFO  pretenzLogFile:74 - Services.TableMakerUpdating table 05 
+2018-01-26 15:04:04 INFO  pretenzLogFile:81 - Services.TableMakerComplete in 0sec. 
+2018-01-26 15:04:04 INFO  pretenzLogFile:74 - Services.TableMakerUpdating table 06 
+2018-01-26 15:04:04 INFO  pretenzLogFile:81 - Services.TableMakerComplete in 0sec. 
